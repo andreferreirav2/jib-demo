@@ -45,7 +45,7 @@
                 <version>0.10.1</version>
                 <executions>
                     <execution>
-                        <phase>compile</phase>
+                        <phase>never</phase>
                         <goals>
                             <goal>build</goal>
                         </goals>
